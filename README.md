@@ -1,3 +1,3 @@
-# Data Portfolio : Excel, Power BI, SQL
+# Data Science : SQL | POWER BI | ANALYTICS
 
 
