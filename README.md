@@ -1,34 +1,34 @@
 # Data Science : SQL | POWER BI | ANALYTICS
 
 
+ # Table of contents
 
-# 👩Esther's Data Projects  
+ ## Featured Projects
+ 
+### Power BI Dashboards
 
-Welcome to my portfolio! This site showcases my work in **Data Science, SQL, Power BI, and Analytics**.  
-I am passionate about turning data into insights that drive decision-making.  
-
----
-
-## 🔹 Featured Projects  
-
-### 📊 Power BI Dashboards  
 - **Sales Performance Dashboard** – Interactive report tracking KPIs and revenue trends.  
-- **Customer Insights Dashboard** – Visualizing demographics and purchase behavior.  
+-[Sales Performance Dashboard](Sales Performance Dashboard).
+-[Cookies Sale Dashboard](Cookies Sales Dashboard).
 
-### 🗄️ SQL Projects  
-- **Netflix Movies & TV Shows Analysis** – SQL queries exploring genres, ratings, and durations.  
-- **Titanic Survival Analysis** – Data cleaning and SQL-based exploratory analysis.  
+- **Customer Insights Dashboard** – Visualizing demographics and purchase behavior.
+-[Car Insurance Policies Dashboard](Car Insurance Policies Dashboard).
+-[RGC Bikes Rental Dashboard](RGC Bikes Rental Dashboard).
 
-### 🐍 Python Analytics  
-- **Web Scraping Tool** – Automated script to collect and clean product pricing data.  
-- **Data Pipeline** – ETL workflow for handling multiple CSV/Excel datasets.  
+- **Customer Insights Dashboard** – Visualizing demographics.
+-[Titatinic 2025](Titanic 2025 Passenger Dashboard).
+  
 
----
+### SQL Projects  
+- **RGC Bikes Rental** – SQL queries exploring ridertype, revenue, and season.  
+- **Titanic Passenger Analysis** – Data cleaning and SQL-based exploratory analysis.
 
-## 🔹 Skills  
-- **Languages:** SQL (Postgres, SQL Server), Python  
+
+### Ms Excel Projects
+
+ 
+## Skills  
+- **Languages:** SQL (Postgres, SQL Server)  
 - **Visualization:** Power BI, Excel Dashboards  
-- **Other Tools:** GitHub, Jupyter, Data Cleaning & Transformation  
-
----
+- **Other Tools:** GitHub, Data Cleaning & Transformation  
 
