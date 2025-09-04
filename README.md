@@ -1,8 +1,7 @@
 # Data Science : SQL | POWER BI | ANALYTICS
 
 
-  Table of contents
-
+#### Table of contents
 ### Featured Projects
 ### Power BI Dashboards
 
