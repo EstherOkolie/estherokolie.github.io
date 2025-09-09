@@ -6,27 +6,30 @@
 ### Power BI Dashboards
 
 - **Sales Performance Dashboard** – Interactive report tracking KPIs and revenue trends.  
-- [Sales Performance Dashboard](Sales Performance Dashboard).
-- [Cookies Sale Dashboard](Cookies Sales Dashboard).
+- [Sales Performance Dashboard](#Sales Performance Dashboard).
+- [Cookies Sale Dashboard](#Cookies Sales Dashboard).
   
 
 - **Customer Insights Dashboard** – Visualizing demographics and purchase behavior.
-- [Car Insurance Policies Dashboard](Car Insurance Policies Dashboard).
-- [RGC Bikes Rental Dashboard](RGC Bikes Rental Dashboard).
+- [Car Insurance Policies Dashboard](#Car Insurance Policies Dashboard).
+- [RGC Bikes Rental Dashboard](#RGC Bikes Rental Dashboard).
   
 
 - **Customer Insights Dashboard** – Visualizing demographics.
-- [Titanic Analysis](Titanic 2025 Passenger Dashboard).
+- [Titanic Analysis](#Titanic 2025 Passenger Dashboard).
   
 
 ### SQL Projects  
 - **RGC Bikes Rental** – SQL queries exploring ridertype, revenue, and season.
-- [RGC Bikes Rental Dashboard](RGC Bikes Rental SQL Query).
+- [RGC Bikes Rental Dashboard](#RGC Bikes Rental SQL Query).
 - **Titanic Passenger Analysis** – Data cleaning and SQL-based exploratory analysis.
-- [Titanic Analysis](Titanic 2025 Passenger SQL Query).
+- [Titanic Analysis](#Titanic 2025 Passenger SQL Query).
 
 
 ### Ms Excel Projects
+- **IMBD Dashboard** - IMBD Movie Dashboard from Pivot Table.
+- [IMBD Dashboard](#IMBD Dashboard).
+- **Adiddas Sales Analysi** -
 
  
 ## Skills  
