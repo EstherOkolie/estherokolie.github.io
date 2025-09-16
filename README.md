@@ -29,7 +29,19 @@
 ### Ms Excel Projects
 - **IMBD Dashboard** - IMBD Movie Dashboard from Pivot Table.
 - [IMBD Dashboard](#IMBD Dashboard).
-- **Adiddas Sales Analysi** -
+- **Adiddas Sales Analysi** - Adiddas Sales Dashboard from Pivot Table.
+- [Adiddas Dashboard](#Adiddas Dashboard).
+
+data-analysis-portfolio/
+│── sales-analysis/
+│    ├── sales_data.csv
+│    ├── sales_analysis.ipynb
+│    ├── requirements.txt
+│    └── README.md
+│── customer-dashboard/
+│    ├── queries.sql
+│    ├── dashboard.pbix
+│    └── README.md
 
  
 ## Skills  
