@@ -30,7 +30,7 @@
 - **IMBD Dashboard** - IMBD Movie Dashboard from Pivot Table.
 - [IMBD Dashboard](#IMBD Dashboard).
 - **Adiddas Sales Analysi** - Adiddas Sales Dashboard from Pivot Table.
-- [Adiddas Dashboard] -(assets/images/Adidas_Dashboard_using_Ms. Excel.png).(#Adiddas Dashboard).
+- [Adiddas Dashboard](#Adiddas Dashboard).
 
  
 ## Skills  
