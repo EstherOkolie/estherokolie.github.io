@@ -7,7 +7,6 @@
 
 - **Sales Performance Dashboard** – Interactive report tracking KPIs and revenue trends.  
 - [Sales Performance Dashboard](#Sales Performance Dashboard).
--(assets/images/Adidas Dashboard using Ms. Excel.png).
 - [Cookies Sale Dashboard](#Cookies Sales Dashboard).
   
 
@@ -31,7 +30,7 @@
 - **IMBD Dashboard** - IMBD Movie Dashboard from Pivot Table.
 - [IMBD Dashboard](#IMBD Dashboard).
 - **Adiddas Sales Analysi** - Adiddas Sales Dashboard from Pivot Table.
-- [Adiddas Dashboard](#Adiddas Dashboard).
+- [Adiddas Dashboard] -(assets/images/Adidas_Dashboard_using_Ms. Excel.png).(#Adiddas Dashboard).
 
  
 ## Skills  
