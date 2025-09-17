@@ -7,6 +7,7 @@
 
 - **Sales Performance Dashboard** – Interactive report tracking KPIs and revenue trends.  
 - [Sales Performance Dashboard](#Sales Performance Dashboard).
+-(assets/images/Adidas Dashboard using Ms. Excel.png).
 - [Cookies Sale Dashboard](#Cookies Sales Dashboard).
   
 
